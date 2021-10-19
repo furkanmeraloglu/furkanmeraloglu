@@ -5,6 +5,9 @@
 - 🌱  Also interested in VueJs, InertiaJs, Tailwindcss
 - 📫  [Shoot me an email if you want to reach me](furkanmeraloglu@gmail.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanmeraloglu&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **furkanmeraloglu/furkanmeraloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
