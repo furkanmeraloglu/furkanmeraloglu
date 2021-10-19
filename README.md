@@ -5,7 +5,7 @@
 - 🌱  Also interested in VueJs, InertiaJs, Tailwindcss
 - 📫  [Shoot me an email if you want to reach me](furkanmeraloglu@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanmeraloglu&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanmeraloglu&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
