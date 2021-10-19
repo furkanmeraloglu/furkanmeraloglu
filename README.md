@@ -5,9 +5,13 @@
 - 🌱  Also interested in VueJs, InertiaJs, Tailwindcss
 - 📫  [Shoot me an email if you want to reach me](furkanmeraloglu@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmeraloglu&layout=compact&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmeraloglu&layout=compact&theme=dracula)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanmeraloglu&hide=issues&count_private=true&show_icons=true&theme=dracula)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanmeraloglu&hide=issues&count_private=true&show_icons=true&theme=dracula)
+
+<a href="https://github.com/furkanmeraloglu/twits">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=furkanmeraloglu&repo=twits" />
+</a>
 
 
 <!--
