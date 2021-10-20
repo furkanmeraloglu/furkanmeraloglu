@@ -3,7 +3,7 @@
 - 🔭  Currently working on bunch of projects which will be coming in public soon!
 - 🌱  Laravel enthusiast 😄 
 - 🌱  Also interested in VueJs, InertiaJs, Tailwindcss
-- 📫  [Shoot me an email if you want to reach me](furkanmeraloglu@gmail.com)
+- 📫  [Shoot me an email if you want to reach me](mailto:furkanmeraloglu@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanmeraloglu&layout=compact&theme=dracula)
 
