@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭  Currently working on bunch of projects which will be coming in public soon!
+- 🔭  Currently working on the web development of a startup project named SALP!
+- 🔭  Developing a CRM and a sales management application for Siliconmade Academy!
 - 🌱  Laravel enthusiast 😄 
 - 🌱  Also interested in VueJs, InertiaJs, Tailwindcss
 - 📫  [Shoot me an email if you want to reach me](mailto:furkanmeraloglu@gmail.com)
