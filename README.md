@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Nuxt.js, Go**
 
-- 👨‍💻 All of my projects are available at [furkanmeraloglu@github.io](furkanmeraloglu@github.io)
+- 👨‍💻 All of my projects are available at [my portfolio website](furkanmeraloglu@github.io)
 
-- 📝 I regularly write articles on [https://medium.com/@furkanmeraloglu](https://medium.com/@furkanmeraloglu)
+- 📝 I regularly write articles on [my Medium account](https://medium.com/@furkanmeraloglu)
 
 - 💬 Ask me about **Php, Laravel, Vue.js**
 
