@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nuxt.js, Go**
 
-- 👨‍💻 All of my projects are available at [my portfolio website](furkanmeraloglu@github.io)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://furkanmeraloglu.github.io/)
 
 - 📝 I regularly write articles on [my Medium account](https://medium.com/@furkanmeraloglu)
 
