@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanmeraloglu&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="furkanmeraloglu" /> </p>
 
-- 🔭 I’m currently working on [SALP](https://www.linkedin.com/company/salp/about/)
+- 🔭 I’m currently working at [Iceberg Digital](https://iceberg-digital.co.uk/quest/index.php) as a Back End Developer
 
-- 🌱 I’m currently learning **Nuxt.js, Go**
+- 🌱 I’m currently learning **Elasticsearch and Go**
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://furkanmeraloglu.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio website](#)
 
 - 📝 I regularly write articles on [my Medium account](https://medium.com/@furkanmeraloglu)
 
-- 💬 Ask me about **Php, Laravel, Vue.js**
+- 💬 Ask me about **Php, Laravel, PostgreSQL**
 
 - 📫 How to reach me **furkanmeraloglu@gmail.com**
 
