@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanmeraloglu&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="furkanmeraloglu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanmeraloglu" alt="furkanmeraloglu" /></a> </p>
-
 - 🔭 I’m currently working on [SALP](https://www.linkedin.com/company/salp/about/)
 
 - 🌱 I’m currently learning **Nuxt.js, Go**
