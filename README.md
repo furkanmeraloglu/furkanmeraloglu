@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Enthusiastic web developer with a particular interest in Laravel. Currently working at SALP, a promising startup project, as a Php Developer.</h3>
+<h3 align="center">Enthusiastic web developer with a particular interest in Laravel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanmeraloglu&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="furkanmeraloglu" /> </p>
 
