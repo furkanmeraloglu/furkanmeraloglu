@@ -5,12 +5,6 @@
 
 - 🔭 I’m currently working at [Iceberg Digital](https://iceberg-digital.co.uk/quest/index.php) as a Back End Developer
 
-- 🌱 I’m currently learning **Elasticsearch and Go**
-
-- 👨‍💻 All of my projects are available at [my portfolio website](#)
-
-- 📝 I regularly write articles on [my Medium account](https://medium.com/@furkanmeraloglu)
-
 - 💬 Ask me about **Php, Laravel, PostgreSQL**
 
 - 📫 How to reach me **furkanmeraloglu@gmail.com**
@@ -19,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/furkanmeraloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkanmeraloglu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/furkan-meraloglu-a78ba9129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-meraloglu-a78ba9129" height="30" width="40" /></a>
-<a href="https://medium.com/@furkanmeraloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@furkanmeraloglu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
